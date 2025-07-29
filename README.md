@@ -8,7 +8,7 @@ Real time canvas/ multi user
 ### 🔹 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/realtime-canvas-app.git
+git clone https://github.com/faai5200/realtime-canvas-app.git
 cd realtime-canvas-app
 ```
 
